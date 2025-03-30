@@ -1,1 +1,2 @@
-# wk1-js-practice
+# Wk1-JS-Practice
+This is a code to solve my Toy problems Prerequisites
